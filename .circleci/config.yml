@@ -27,4 +27,3 @@ workflows:
   version: 2
   proofreading:
     jobs:
-      - proofreading_job
